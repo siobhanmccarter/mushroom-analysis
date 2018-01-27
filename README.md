@@ -18,7 +18,17 @@ I used [this dataset](http://archive.ics.uci.edu/ml/datasets/Mushroom) from UCI'
 
 I tested out 3 different classifier models (SVM, decision tree, and random forest). In the end, I chose a linear SVM model, which had a higher initial error. I did this because I wanted to test out how changes in the parameters and number of features would affect the accuracy of the model. It performed incredibly well after my tuning, with a training error of 0.0266 and a test error of 0.0286.
 
-## Dependencies
+## Running the Analysis
+
+This project is pretty easy to run. Follow these steps:
+
+1. Clone this repo locally
+
+2. Ensure that you have the dependencies installed 
+
+3. Run the code notebook file (seen [here](https://github.com/siobhanmccarter/mushroom-analysis/blob/master/src/mushroom_code.ipynb)) in order 
+
+#### Dependencies
 
 This project used the following:
 
